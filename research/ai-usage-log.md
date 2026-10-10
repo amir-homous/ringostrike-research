@@ -12,6 +12,7 @@ This document tracks how AI tools are used during the research and writing proce
 * Creating draft tables and frameworks
 * Planning user study materials
 * Reviewing claims and identifying missing evidence
+* Turning the Oct 11 founder reflection into labeled research addenda, study-plan prompts, and a scientific roadmap
 
 ## AI Tools Not Used For
 
@@ -29,3 +30,7 @@ The author is responsible for verifying all sources, checking claims, reviewing 
 ## Current Status
 
 AI is being used as a research, writing, planning, and editing assistant. All claims, sources, and final interpretations must be reviewed and approved by the author.
+
+## 2026-10-11 Update
+
+AI assistance was used to review the Notion founder reflection and convert it into repository research materials. The resulting addenda label the reflection as retrospective founder self-report and hypothesis generation only. No user-study results, effectiveness findings, or causal claims were created.
