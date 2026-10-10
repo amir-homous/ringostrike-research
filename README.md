@@ -30,6 +30,15 @@ This repository will include:
 * AI usage documentation
 * Publication planning
 
+## October 2026 Research Addenda
+
+The October 2026 addenda add a carefully labeled founder retrospective about disruption, off-app progress, and re-entry. These documents are for hypothesis generation and study planning only; they are not evidence that RingoStrike is effective.
+
+* `research/raw/founder-reflection-2026-10-11.md` — raw qualitative founder reflection note with caveats.
+* `research/re-entry-and-progress-without-check-in-addendum.md` — framework addendum for inactivity, Return Mode, and progress without check-in.
+* `research/user-study-re-entry-addendum.md` — study-plan addendum for testing re-entry UX.
+* `research/scientific-roadmap-2026-10-11.md` — prioritized roadmap for product audit, formative study, pilot, and publication planning.
+
 ## Current Status
 
 Research planning and framework development in progress.
